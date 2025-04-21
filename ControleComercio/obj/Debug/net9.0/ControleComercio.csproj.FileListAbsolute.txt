@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\bin\Debug\net9.0\ControleComercio.exe
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\bin\Debug\net9.0\ControleComercio.deps.json
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\bin\Debug\net9.0\ControleComercio.runtimeconfig.json
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\bin\Debug\net9.0\ControleComercio.dll
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\bin\Debug\net9.0\ControleComercio.pdb
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ControleComercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ControleComercio.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ControleComercio.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ControleComercio.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ControleComercio.dll
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\refint\ControleComercio.dll
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ControleComercio.pdb
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ControleComercio.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Desktop\Controle de Comércio\ControleComercio\obj\Debug\net9.0\ref\ControleComercio.dll
