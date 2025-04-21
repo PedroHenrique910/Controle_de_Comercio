@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Desktop\\Controle de Comércio\\ControleComercio\\ControleComercio.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Controle_de_Comercio\\ControleComercio\\ControleComercio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Desktop\\Controle de Comércio\\ControleComercio\\ControleComercio.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Controle_de_Comercio\\ControleComercio\\ControleComercio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Desktop\\Controle de Comércio\\ControleComercio\\ControleComercio.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Controle_de_Comercio\\ControleComercio\\ControleComercio.csproj",
         "projectName": "ControleComercio",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Desktop\\Controle de Comércio\\ControleComercio\\ControleComercio.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Controle_de_Comercio\\ControleComercio\\ControleComercio.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Desktop\\Controle de Comércio\\ControleComercio\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Controle_de_Comercio\\ControleComercio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
