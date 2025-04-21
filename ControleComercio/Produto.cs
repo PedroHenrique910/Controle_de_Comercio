@@ -1,36 +1,41 @@
-public class Produto
+using System;
+
+namespace ControleComercio
 {
-    private int Codigo { get; set; }
-    private int QuantidadeEstoque { get; set; }
-    public string Nome { get; set; }
-    public decimal Preco {get; set; }
-
-    public Produto (int codigo, int quantidadeEstoque, string nome, decimal preco)
+    public class Produto
     {
-        Codigo = codigo;
-        QuantidadeEstoque = quantidadeEstoque;
-        Nome = nome;
-        Preco = preco;
-    }
+        public int Codigo { get; private set; }
+        public string Nome { get; set; }
+        public decimal Preco { get; set; }
+        public int QuantidadeEstoque { get; private set; }
 
-     public void ReabastecerProduto(int produto)
-     {
-        QuantidadeEstoque += produto;
-     }
-
-     public bool RemoverDoEstoque(int produto)
-     {
-        if (produto <= QuantidadeEstoque)
+        public Produto(int codigo, string nome, decimal preco, int quantidadeInicial)
         {
-            QuantidadeEstoque -= produto;
-            return true; 
+            Codigo = codigo;
+            Nome = nome;
+            Preco = preco;
+            QuantidadeEstoque = quantidadeInicial;
         }
 
-        return false;
-     }
+        public void AdicionarEstoque(int quantidade)
+        {
+            QuantidadeEstoque += quantidade;
+        }
 
-     public void ExibirInfo()
+        public bool RemoverEstoque(int quantidade)
+        {
+            if (quantidade <= QuantidadeEstoque)
+            {
+                QuantidadeEstoque -= quantidade;
+                return true;
+            }
+
+            return false;
+        }
+
+        public void ExibirInfo()
         {
             Console.WriteLine($"Código: {Codigo} | Nome: {Nome} | Preço: R${Preco} | Estoque: {QuantidadeEstoque}");
         }
+    }
 }
