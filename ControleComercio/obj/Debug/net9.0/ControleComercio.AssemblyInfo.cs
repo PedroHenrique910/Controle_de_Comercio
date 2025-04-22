@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleComercio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+504fe9d514562f69e536f86cfda16569008738bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11e64714d781bf553e1a7d6884e181827daa4e6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleComercio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleComercio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
